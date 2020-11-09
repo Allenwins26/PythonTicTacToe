@@ -1,2 +1,2 @@
 # PythonTicTacToe
-Tic Tac Toe Game utilizes Pygame module
+Tic Tac Toe Game 
